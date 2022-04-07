@@ -1,4 +1,12 @@
 /*
-Theme Name: DAHD Tainacan
-Theme URI: 
-*/
+Theme Name: DAHD Tainacan 
+Theme URI: https://github.com/MESH-Research/dahd-tainacan-child 
+Template: tainacan-interface
+Description: This is a child theme of the Tainacan Interface theme with
+customization for the Digital Art History Directory.
+Version: 0.0.1
+Text Domain: dahd-tainacan-child
+*/  
+.page-header.page-collection.page-header--image-full {
+	display: none;
+}
